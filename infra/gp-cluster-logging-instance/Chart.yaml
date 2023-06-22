@@ -8,5 +8,5 @@ version: 2.0.8
 dependencies:
   - name: minio
     repository: "https://charts.bitnami.com/bitnami"
-    version: 11.10.20
+    version: 11.10.26
     condition: lokistack.minio.enabled
