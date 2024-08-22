@@ -26,7 +26,7 @@ dependencies:
 - name: argo-workflows
   alias: argo_workflows
   repository: "https://argoproj.github.io/argo-helm"
-  version: ~0.20.12
+  version: ~0.42.0
   condition: argo_workflows.enabled
 - name: postgresql
   repository: "https://charts.bitnami.com/bitnami"
