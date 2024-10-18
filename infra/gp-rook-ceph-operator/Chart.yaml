@@ -9,5 +9,5 @@ appVersion: v1.9.3
 dependencies:
   - name: rook-ceph
     alias: rook
-    version: v1.9.3
+    version: v1.15.4
     repository: "https://charts.rook.io/release"
